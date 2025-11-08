@@ -20,7 +20,7 @@ To understand the concept of sequence modeling and apply deep learning (LSTM) to
 - NLP
 - Google Colab / Jupyter Notebook
 
-## 🧩 Steps Performed
+## Steps Performed
 1. Prepared and tokenized text data.
 2. Created sequences for training the model.
 3. Built and trained an LSTM neural network.
